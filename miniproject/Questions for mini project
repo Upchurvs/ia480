@@ -1,0 +1,22 @@
+# Mini Project Report
+
+## 1. Data Source
+My data is from Kaggle. It lists several people's age and health factors such as BMI and the presence of Diabetes.
+
+## 2. Research Question
+My research question was: Can a trained model predict the age of patients based on health factors?
+
+## 3. Target Variable
+My target variable was age, and the predicting features are:
+- Age group
+- Blood insulin levels
+- BMI
+
+## 4. Data Cleaning
+We did not clean our data. My data had zero missing values.
+
+## 5. Training Process
+For training, we uploaded the CSV file and had the AI work through the data to determine what factors can help predict age and whether the data given is sufficient enough to predict a patient's age.
+
+## 6. Model Performance
+My model had lower performance, with an R² of 60%. To improve this, more data and patients are needed as we had to use limited data to save on credits.
